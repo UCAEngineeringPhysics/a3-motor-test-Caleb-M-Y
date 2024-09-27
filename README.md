@@ -21,9 +21,9 @@ Make marks on both wheels at same spot before you start the testing [script](/es
 > **Hint**: No loop is needed.
 2. (30%) Observe the motor's behavior carefully and answer the questions below.
    1. (20%) Can you estimate the speed of each motor using "revolutions per minute (RPM)"? Please round the RPM to **one decimal place**. 
-      > Your answer here.
+      > LEFT: 123.4 RPM    RIGHT: 125.5 RPM
    2. (10%) What would be the reasons if the speeds of the motors were different? 
-      > Your answer here.
+      > Different voltages, current, etc going to the motors. Hair, dirt, and other things physically affecting the motor could slow them. 
 3. (10%) Upload images to show final location of the marks on each wheel. 
    
 ## AI Usage Policy
